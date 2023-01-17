@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahulyal
 - 👀 I’m interested in start-ups, building software
-- 🌱 I’m currently learning DS&Algos in Python
-- 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning Cloud Computing and Operating Systems
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me : vyalavarthi@scu.edu
 
 <!---
 rahulyal/rahulyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
