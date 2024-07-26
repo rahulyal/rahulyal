@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahulyal
 - 👀 I’m interested in building software
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently grinding Leetcode
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : vyalavarthi@scu.edu
+- 📫 How to reach me : venkatarahuly@gmail.com
 
 <!---
 rahulyal/rahulyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
